@@ -6,7 +6,7 @@ Email-Extract is a simple tool I wrote to help extract emails from websites for 
 
 ## Getting Started
 
-To begin, run ``` sudo ./main.py ``` or ``` sudo python3 main.py ``` and use append -a, -m, or -f
+To begin, run ``` sudo ./main.py ``` or ``` sudo python3 main.py ``` and append -a, -m, or -f to use the different functions provided
 
 ## Built With
 
